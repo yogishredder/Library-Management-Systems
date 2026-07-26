@@ -28,9 +28,6 @@ Make sure pandas & mysql-connector-python library had already install ed and add
 Run main.py and fill username & password for database access. the name of database must be "lms_project". After succesfully connected, type 1 - 9 for the menu.  
 
 ```
-## Authors
-
-- [@Prayogi Adista](https://www.linkedin.com/in/prayogi-adista-purwanto-89878476/)
 
 
 
